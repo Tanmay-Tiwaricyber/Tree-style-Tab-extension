@@ -54,7 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact ✉️
 
-For any issues or suggestions, feel free to [open an issue](https://github.com/Tanmay-Tiwaricyber/tree-style-tab-extension/issues) on GitHub.
+For any issues or suggestions, feel free to [open an issue](https://github.com/Tanmay-Tiwaricyber/Tree-style-Tab-extension/issues) on GitHub.
 
 ---
 
