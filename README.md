@@ -34,10 +34,10 @@ Organize your tabs in a tree structure with this Chrome extension. This enhances
 ## Screenshots 🖼️
 
 ![Screenshot 1](/screenshots/screenshot1.png)
-*Caption for screenshot 1.*
+*UI Design*
 
 ![Screenshot 2](/screenshots/screenshot2.png)
-*Caption for screenshot 2.*
+*Extension-Tab-Menu*
 
 ## Contributing 🤝
 
